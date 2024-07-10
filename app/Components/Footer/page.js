@@ -1,3 +1,5 @@
+// File: ./app/Components/Footer/page.js
+
 import React from "react";
 import { FaTwitter, FaFacebook, FaInstagram } from "react-icons/fa";
 import Link from "next/link";
@@ -111,8 +113,8 @@ const Footer = () => {
                     <ul className="list-unstyled">
                       <li>
                         <a href="#">
-                          <span className="fa fa-chevron-right me-2"></span>
-                          Beauty &amp; Health
+                        <span className="fa fa-chevron-right me-2"></span>Beauty
+                        &amp; Health {/* Use &amp; for & */}
                         </a>
                       </li>
                       <li>
@@ -129,8 +131,8 @@ const Footer = () => {
                       </li>
                       <li>
                         <a href="#">
-                          <span className="fa fa-chevron-right me-2"></span>Help
-                          &amp; Support
+                        <span className="fa fa-chevron-right me-2"></span>Help &amp;
+                        Support {/* Use &amp; for & */}
                         </a>
                       </li>
                     </ul>
@@ -160,8 +162,8 @@ const Footer = () => {
                 </li>
                 <li>
                   <a href="#">
-                    <span className="fa fa-chevron-right me-2"></span>Resto
-                    &amp; Bar
+                  <span className="fa fa-chevron-right me-2"></span>Resto &amp;
+                  Bar {/* Use &amp; for & */}
                   </a>
                 </li>
               </ul>
@@ -200,7 +202,7 @@ const Footer = () => {
         <div className="container-xl">
           <div className="row">
             <div className="col-md-12 text-center">
-              <p
+            <p
                 className="mb-0"
                 style={{ color: "rgba(255,255,255,.5)", fontSize: "13px" }}
               >
@@ -208,13 +210,9 @@ const Footer = () => {
                 This template is made with{" "}
                 <i className="fa fa-heart color-danger" aria-hidden="true"></i>{" "}
                 by{" "}
-                <a
-                  href="https://colorlib.com"
-                  target="_blank"
-                  rel="nofollow noopener"
-                >
-                  Colorlib
-                </a>
+                <Link href="/" target="_blank" rel="nofollow noopener">
+                  Bimal
+                </Link>
               </p>
             </div>
           </div>
