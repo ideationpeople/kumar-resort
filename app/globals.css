@@ -1,4 +1,4 @@
-:root {
+/* :root {
   --max-width: 1100px;
   --border-radius: 12px;
   --font-mono: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono",
@@ -104,4 +104,22 @@ a {
   html {
     color-scheme: dark;
   }
+} */
+
+
+
+@import '../public//css//animate.css';
+@import '../public/css/flaticon.css';
+@import '../public/css/tiny-slider.css';
+@import '../public/css/glightbox.min.css';
+/* @import '../../public/css/aos.css'; */
+@import '../public/css/datepicker.min.css';
+@import '../public/css/style.css';
+
+body {
+  font-family: var(--font-nunito), sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-old-standard-tt), serif;
 }
