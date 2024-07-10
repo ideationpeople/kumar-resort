@@ -119,7 +119,7 @@ const Footer = () => {
                       </li>
                       <li>
                         <a href="#">
-                          <span className="fa fa-chevron-right me-2"></span>60 &amp;
+                          <span className="fa fa-chevron-right me-2"></span>
                           Flatscreen TV
                         </a>
                       </li>
