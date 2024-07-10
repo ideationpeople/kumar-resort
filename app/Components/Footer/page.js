@@ -1,6 +1,7 @@
 import React from "react";
 import { FaTwitter, FaFacebook, FaInstagram } from "react-icons/fa";
 import Link from "next/link";
+
 const Footer = () => {
   return (
     <footer className="ftco-footer">
@@ -22,10 +23,7 @@ const Footer = () => {
                 A small river named Duden flows by their place and supplies it
                 with the necessary regelialia.
               </p>
-              <ul
-                className="ftco-footer-social list-unstyled mt-2"
-               
-              >
+              <ul className="ftco-footer-social list-unstyled mt-2">
                 <li>
                   <Link href="#">
                     <span
@@ -119,7 +117,7 @@ const Footer = () => {
                       </li>
                       <li>
                         <a href="#">
-                          <span className="fa fa-chevron-right me-2"></span>60"
+                          <span className="fa fa-chevron-right me-2"></span>60&quot;
                           Flatscreen TV
                         </a>
                       </li>
