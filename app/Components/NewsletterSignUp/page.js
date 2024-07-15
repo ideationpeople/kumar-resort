@@ -1,3 +1,4 @@
+'use client';
 // src/components/NewsletterSignUp.js
 import React, { useState } from "react";
 import axios from "axios";
