@@ -4,9 +4,10 @@ import { useEffect } from "react";
 import aos from "../../public/js/aos";
 // import HeroSection from '../Components/HeroSection';
 import HeroSectionGeneral from "../Components/HeroGeneral/page";
-import ContactSection from "../Components/contact/page";
+// import ContactSection from "../Components/contact/page";
+import Contact from "../Components/contact/page";
 import Footer from "../Components/Footer/page";
-
+import NewsletterSignUp from "../Components/NewsletterSignUp/page";
 
 const Navbar = () => {
   useEffect(() => {
@@ -52,7 +53,8 @@ const Navbar = () => {
     </nav>
     {/* <Hero/> */}
     <HeroSectionGeneral pageTitle=" CONTACT" breadcrumbs="Contact Us" />
-    <ContactSection/>
+    <Contact/>
+    <NewsletterSignUp/>
 
     <Footer/>
     </>
