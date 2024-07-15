@@ -25,7 +25,7 @@ export default function Header() {
                             </Link>
                         </li>
                         <li className="nav-item">
-                            <Link href="/rooms" className="nav-link">
+                            <Link href="/Rooms" className="nav-link">
                                 Rooms
                             </Link>
                         </li>
