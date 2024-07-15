@@ -27,6 +27,7 @@ import '@/public/css/bootstrap/bootstrap-reboot.css';
 import '@/public/css/bootstrap/bootstrap-utilities.css';
 import '@/public/css/bootstrap/vendor/_rfs.css';
 // import '@/public/fonts/flaticon/font/flaticon.css';
+// import '@/public/js';
 
 
 
@@ -41,7 +42,7 @@ import '@/public/css/tiny-slider.css';
 //                              js file 
 
 import '@/public/js/aos';
-// import '@/public/js/tiny-slider';
+// import '@/public/js/bootstrap.bundle.min.js';
 
 
 
@@ -82,13 +83,13 @@ export default function RootLayout({ children }) {
       </head>
       <body>
         {children}
-        {/* <Script src="/js/bootstrap.bundle.min.js" strategy="beforeInteractive" />
-        <Script src="/js/tiny-slider.js" strategy="beforeInteractive" />
-        <Script src="/js/glightbox.min.js" strategy="beforeInteractive" /> */}
+         {/* <Script src="/js/bootstrap.bundle.min.js" strategy="beforeInteractive" /> */}
+        {/* <Script src="/js/tiny-slider.js" strategy="beforeInteractive" /> */}
+        {/* <Script src="/js/glightbox.min.js" strategy="beforeInteractive" />  */}
         {/* <Script src="https://kit.fontawesome.com/62efa4f0b6.js" crossorigin="anonymous"></Script> */}
 
         {/* <Script src="/js/datepicker.min.js" strategy="beforeInteractive" /> */}
-
+        <Script src="/js/bootstrap.bundle.min.js"></Script>
         {/* <Script
           src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&sensor=false"
           strategy="beforeInteractive"
