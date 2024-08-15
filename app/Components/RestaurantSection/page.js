@@ -23,7 +23,7 @@ const RestaurantSection = () => {
                   <div className="img" style={{ backgroundImage: "url(images/menu-1.jpg)" }}></div>
                   <div className="desc ps-3">
                     <div className="d-flex text">
-                      <h3><span>Grilled Beef with potatoes</span></h3>
+                      <h3><span>Grilled Chicken with potatoes</span></h3>
                       <span className="price">Rs.320</span>
                     </div>
                   </div>
@@ -32,7 +32,7 @@ const RestaurantSection = () => {
                   <div className="img" style={{ backgroundImage: "url(images/menu-2.jpg)" }}></div>
                   <div className="desc ps-3">
                     <div className="d-flex text">
-                      <h3><span>Grilled Beef with potatoes</span></h3>
+                      <h3><span>Grilled Chicken with potatoes</span></h3>
                       <span className="price">Rs.290</span>
                     </div>
                   </div>
@@ -41,7 +41,7 @@ const RestaurantSection = () => {
                   <div className="img" style={{ backgroundImage: "url(images/menu-3.jpg)" }}></div>
                   <div className="desc ps-3">
                     <div className="d-flex text">
-                      <h3><span>Grilled Beef with potatoes</span></h3>
+                      <h3><span>Grilled Chicken with potatoes</span></h3>
                       <span className="price">Rs.320</span>
                     </div>
                   </div>
@@ -50,7 +50,7 @@ const RestaurantSection = () => {
                   <div className="img" style={{ backgroundImage: "url(images/menu-4.jpg)" }}></div>
                   <div className="desc ps-3">
                     <div className="d-flex text">
-                      <h3><span>Grilled Beef with potatoes</span></h3>
+                      <h3><span>Grilled Chicken with potatoes</span></h3>
                       <span className="price">Rs.320</span>
                     </div>
                   </div>
@@ -62,7 +62,7 @@ const RestaurantSection = () => {
                   <div className="img" style={{ backgroundImage: "url(images/menu-5.jpg)" }}></div>
                   <div className="desc ps-3">
                     <div className="d-flex text">
-                      <h3><span>Grilled Beef with potatoes</span></h3>
+                      <h3><span>Grilled Chicken with potatoes</span></h3>
                       <span className="price">Rs.499</span>
                     </div>
                   </div>
@@ -80,7 +80,7 @@ const RestaurantSection = () => {
                   <div className="img" style={{ backgroundImage: "url(images/menu-7.jpg)" }}></div>
                   <div className="desc ps-3">
                     <div className="d-flex text">
-                      <h3><span>Grilled Beef with potatoes</span></h3>
+                      <h3><span>Grilled Chicken with potatoes</span></h3>
                       <span className="price">Rs.320</span>
                     </div>
                   </div>
