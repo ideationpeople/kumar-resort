@@ -24,7 +24,7 @@ const RestaurantSection = () => {
                   <div className="desc ps-3">
                     <div className="d-flex text">
                       <h3><span>Grilled Beef with potatoes</span></h3>
-                      <span className="price">$20.00</span>
+                      <span className="price">Rs.320</span>
                     </div>
                   </div>
                 </div>
@@ -33,7 +33,7 @@ const RestaurantSection = () => {
                   <div className="desc ps-3">
                     <div className="d-flex text">
                       <h3><span>Grilled Beef with potatoes</span></h3>
-                      <span className="price">$29.00</span>
+                      <span className="price">Rs.290</span>
                     </div>
                   </div>
                 </div>
@@ -42,7 +42,7 @@ const RestaurantSection = () => {
                   <div className="desc ps-3">
                     <div className="d-flex text">
                       <h3><span>Grilled Beef with potatoes</span></h3>
-                      <span className="price">$20.00</span>
+                      <span className="price">Rs.320</span>
                     </div>
                   </div>
                 </div>
@@ -51,7 +51,7 @@ const RestaurantSection = () => {
                   <div className="desc ps-3">
                     <div className="d-flex text">
                       <h3><span>Grilled Beef with potatoes</span></h3>
-                      <span className="price">$20.00</span>
+                      <span className="price">Rs.320</span>
                     </div>
                   </div>
                 </div>
@@ -63,7 +63,7 @@ const RestaurantSection = () => {
                   <div className="desc ps-3">
                     <div className="d-flex text">
                       <h3><span>Grilled Beef with potatoes</span></h3>
-                      <span className="price">$49.91</span>
+                      <span className="price">Rs.499</span>
                     </div>
                   </div>
                 </div>
@@ -72,7 +72,7 @@ const RestaurantSection = () => {
                   <div className="desc ps-3">
                     <div className="d-flex text">
                       <h3><span>Ultimate Overload</span></h3>
-                      <span className="price">$20.00</span>
+                      <span className="price">Rs.320</span>
                     </div>
                   </div>
                 </div>
@@ -81,7 +81,7 @@ const RestaurantSection = () => {
                   <div className="desc ps-3">
                     <div className="d-flex text">
                       <h3><span>Grilled Beef with potatoes</span></h3>
-                      <span className="price">$20.00</span>
+                      <span className="price">Rs.320</span>
                     </div>
                   </div>
                 </div>
@@ -90,7 +90,7 @@ const RestaurantSection = () => {
                   <div className="desc ps-3">
                     <div className="d-flex text">
                       <h3><span>Ham & Pineapple</span></h3>
-                      <span className="price">$20.00</span>
+                      <span className="price">Rs.320</span>
                     </div>
                   </div>
                 </div>

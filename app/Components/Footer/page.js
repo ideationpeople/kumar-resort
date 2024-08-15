@@ -17,7 +17,8 @@ const Footer = () => {
                   href="index.html"
                 >
                   <span className="">
-                    Unwind <small>Hotel Booking</small>
+                    {/* Unwind <small>Hotel Booking</small> */}
+                    <img src="/images/logo1.png" alt="Kumar Resorts" style={{ width: "200px" }}/>
                   </span>
                 </a>
               </h2>
@@ -177,19 +178,19 @@ const Footer = () => {
                   <li>
                     <span className="icon fa fa-map marker"></span>
                     <span className="text">
-                      203 Fake St. Mountain View, San Francisco, California, USA
+                    202B, Old Mumbai - Pune Hwy, Gautam Park Society, Rao Colony, Lonavala, Maharashtra 410401
                     </span>
                   </li>
                   <li>
                     <a href="#">
                       <span className="icon fa fa-phone"></span>
-                      <span className="text">+2 392 3929 210</span>
+                      <span className="text">+91 92200 00005</span>
                     </a>
                   </li>
                   <li>
                     <a href="#">
                       <span className="icon fa fa-paper-plane pr-4"></span>
-                      <span className="text">info@yourdomain.com</span>
+                      <span className="text">info@kumarresorts.in</span>
                     </a>
                   </li>
                 </ul>

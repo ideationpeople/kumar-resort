@@ -6,7 +6,8 @@ export default function Header() {
             <div className="container-xl">
                 <Link href="/">
                     <span className="navbar-brand align-items-center">
-                        <span>Unwind <small>Hotel Booking</small></span>
+                        {/* <span>Unwind <small>Hotel Booking</small></span> */}
+                        <img src="/images/logo1.png" alt="Kumar Resorts" style={{ width: "300px" }}/>
                     </span>
                 </Link>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

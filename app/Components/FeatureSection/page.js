@@ -16,9 +16,9 @@ const FeaturedRoomsSection = () => {
               <a href="room-single.html" className="img img-room" style={{ backgroundImage: "url(images/room-1.jpg)" }}>
               </a>
               <div className="text p-5 text-center">
-                <h3><a href="room-single.html">Suite Room</a></h3>
+                <h3><a href="room-single.html">Deluxe Room</a></h3>
                 <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                <p className="mb-0 mt-2"><span className="me-3 price">$450 <small>/ night</small></span><a href="#" className="btn-custom">Book Now</a></p>
+                <p className="mb-0 mt-2"><span className="me-3 price">Rs.8,970<small>/ night</small></span><a href="#" className="btn-custom">Book Now</a></p>
               </div>
             </div>
           </div>
@@ -27,9 +27,9 @@ const FeaturedRoomsSection = () => {
               <a href="room-single.html" className="img img-room" style={{ backgroundImage: "url(images/room-2.jpg)" }}>
               </a>
               <div className="text p-5 text-center">
-                <h3><a href="room-single.html">Family Room</a></h3>
+                <h3><a href="room-single.html">Family Suite</a></h3>
                 <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                <p className="mb-0 mt-2"><span className="me-3 price">$450 <small>/ night</small></span><a href="#" className="btn-custom">Book Now</a></p>
+                <p className="mb-0 mt-2"><span className="me-3 price">Rs.10,080 <small>/ night</small></span><a href="#" className="btn-custom">Book Now</a></p>
               </div>
             </div>
           </div>
@@ -38,9 +38,9 @@ const FeaturedRoomsSection = () => {
               <a href="room-single.html" className="img img-room" style={{ backgroundImage: "url(images/room-3.jpg)" }}>
               </a>
               <div className="text p-5 text-center">
-                <h3><a href="room-single.html">Deluxe Room</a></h3>
+                <h3><a href="room-single.html">Executive Suite Room</a></h3>
                 <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                <p className="mb-0 mt-2"><span className="me-3 price">$450 <small>/ night</small></span><a href="#" className="btn-custom">Book Now</a></p>
+                <p className="mb-0 mt-2"><span className="me-3 price">Rs.7,980 <small>/ night</small></span><a href="#" className="btn-custom">Book Now</a></p>
               </div>
             </div>
           </div>
